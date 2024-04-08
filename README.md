@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I'm currently working on a postbaccalaureate degree in Computer Science at Oregon State University Ecampus.
+
 <!--
 **tysonfromearth/tysonfromearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
