@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm currently working on a postbaccalaureate degree in Computer Science at Oregon State University Ecampus.
+I recently graduated with a Bachelor of Science in Computer Science at Oregon State University. 
 
 <!--
 **tysonfromearth/tysonfromearth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
